@@ -1,0 +1,9 @@
+bin/
+obj/
+temp/
+.analysis/
+.template/
+.tools/
+*.user
+*.suo
+

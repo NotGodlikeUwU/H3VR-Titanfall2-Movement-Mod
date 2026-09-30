@@ -1,0 +1,9 @@
+{
+  "name": "Titanfall2-Movement",
+  "author": "NotGodlike",
+  "version_number": "1.0.0",
+  "description": "Titanfall 2 inspired momentum, crouching, slides, double jumps and wall running for H3VR.",
+  "dependencies": [
+    "BepInEx-BepInExPack_H3VR-5.4.1700"
+  ]
+}
