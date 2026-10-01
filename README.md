@@ -6,7 +6,7 @@ A BepInEx plugin that adds Titanfall 2-inspired momentum movement to H3VR while 
 
 ## Features
 
-- Right-stick click is jump; left-stick click toggles sprint; action-stick down is crouch/slide.
+- Right-stick click is jump; left-stick click toggles sprint; right-stick down is crouch/slide.
 - Slide mechanic. Slide's momentum boosts if you combine it with wall running and jumping.
 - Wall-Running mechanic.
 - 25-degree wall-run camera roll
